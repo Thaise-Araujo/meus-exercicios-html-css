@@ -1,0 +1,21 @@
+#profissao {
+    color: blue;
+    font-weight: bold;
+    font-size: 20px;
+}
+ul {
+   
+  color: pink;         
+  font-size: 20px;    
+}
+img {
+  width: 300px;      
+  height: auto; 
+  border-radius: 15px;    
+}
+.titulo{
+ font-family: 'Arial Black', sans-serif;
+  font-size: 48px;
+  color: #0055ff;
+
+}
